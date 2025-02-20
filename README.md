@@ -9,9 +9,9 @@ A comprehensive pipeline for classifying Pneumonia vs. Normal chest X-ray images
 4. [Installation and Setup](#installation-and-setup)
 5. [Usage](#usage)
 6. [Results](#results)
-7. [Future Work](#future-work)
-8. [License](#license)
-9. [References](#references)
+
+
+
 
 ---
 
@@ -63,9 +63,7 @@ The primary goal is to accurately detect pneumonia from chest X-ray images.
 - **Threshold Tuning** to adjust trade-off between sensitivity (recall) and specificity.
 - **Confusion Matrices** & misclassification analysis.
 
-## Installation and Setup
-1. **Clone the repository**  
-   ```bash
+
    git clone https://github.com/your-username/chest-xray-classification.git
    cd chest-xray-classification
 
